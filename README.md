@@ -1,8 +1,11 @@
 
 
 #1. SETUP
- - in backend folder: mvn spring-boot:run
- - in frontend folder: ng serve
+ - in backend folder (cmd of bash):
+         mvn spring-boot:run
+ - in frontend folder (cmd of bash):
+       · npm install 
+       · ng serve
 
 #2. EXECUTION
     - http://localhost:4200/tasks
@@ -12,4 +15,5 @@
     - Tasks listing is working
     - With more time I would:
                 · review care of SOLID principles in the backend, although in this version I have already added a service to get some layers.
+
                 · improve error handling

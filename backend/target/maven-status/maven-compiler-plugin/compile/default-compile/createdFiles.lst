@@ -1,0 +1,5 @@
+com\six_test\server\ServerApplication.class
+com\six_test\server\repository\TaskRepository.class
+com\six_test\server\model\Task.class
+com\six_test\server\service\TaskService.class
+com\six_test\server\controller\TaskController.class
